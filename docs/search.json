@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rapportsamling",
+    "section": "",
+    "text": "Här samlas rapporter ordnade efter tema. Välj ett tema nedan eller i menyn till vänster.",
+    "crumbs": [
+      "Startsida"
+    ]
+  },
+  {
+    "objectID": "index.html#teman",
+    "href": "index.html#teman",
+    "title": "Rapportsamling",
+    "section": "Teman",
+    "text": "Teman\n\nBefolkning och demografi\nFordonsflottan",
+    "crumbs": [
+      "Startsida"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/rapport-1.html",
+    "href": "befolkning-demografi/rapport-1.html",
+    "title": "Rapport, befolkning",
+    "section": "",
+    "text": "Denna rapport är en del av ett första alfatest av projektet Hugo. Syftet är att tillgängliggöra och visualisera befolkningsprognosen som finns för kommunen, vilket samtidigt ämnar visa vad som är möjligt redan i detta skede, i de fall data finns att tillgå.\n\n\n\n\n\n\nViktigtOBS!\n\n\n\nNotera att rapporten i denna utvecklingsfas kan innehålla felaktigheter, då projektets testprocesser fortfarande är under konstruktion.\n\n\n\n\nTill vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi",
+      "Rapport, befolkning"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/rapport-1.html#hur-rapporten-används",
+    "href": "befolkning-demografi/rapport-1.html#hur-rapporten-används",
+    "title": "Rapport, befolkning",
+    "section": "",
+    "text": "Till vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi",
+      "Rapport, befolkning"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/rapport-1.html#linjer",
+    "href": "befolkning-demografi/rapport-1.html#linjer",
+    "title": "Rapport, befolkning",
+    "section": "Linjer",
+    "text": "Linjer\nDen första grafen visar befolkningsmängdens utveckling när den betraktas som en helhet. Sedan 1980 har den, i stort sett, pekat nedåt; detta förväntas enligt prognosen fortsätta även fram till 2040.\n\n\n\n\n\n\nNär vi splittrar helheten till åldersgrupper framträder ett tydligt skifte omkring ca 2008: medan grupperna yngre än 65 fortsatt att minska, pekar kurvan för 65+ istället uppåt. Båda dessa trender prognosticeras att fortsätta tills 2040, vilket ger en annan åldersmässig demografisk struktur än tidigare.",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi",
+      "Rapport, befolkning"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/rapport-1.html#staplade-grafer",
+    "href": "befolkning-demografi/rapport-1.html#staplade-grafer",
+    "title": "Rapport, befolkning",
+    "section": "Staplade grafer",
+    "text": "Staplade grafer\nDen fortsatt förändrade åldersammansättning illustreras på ett annorlunda sätt i nedanstående staplade grafer, men tolkningen är densamma. Andelen av befolkningen som är över 65 förväntas därmed öka, medan särskilt de yngsta – de under 20 – förväntas stå för en allt mindre andel av befolkningen.\n\n\n\n\n\n\nNoteraEj interaktiv.\n\n\n\nNedanstående grafer är ej interaktiv, utan är enbart en fast bild.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipsTips!\n\n\n\nNedanstående graf är interaktiv, och går också att dra via reglaget under den för att ställa in önskat tidsomfång.",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi",
+      "Rapport, befolkning"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/rapport-1.html#analytiska-grafer",
+    "href": "befolkning-demografi/rapport-1.html#analytiska-grafer",
+    "title": "Rapport, befolkning",
+    "section": "Analytiska grafer",
+    "text": "Analytiska grafer\nEtt sådant demografiskt skifte som beskrivits ovan kan då också tolkas via nedanstående grafer. Om äldre ökar sin andel och yngre minskar sin andel, blir ett resultat att andelen av befolkningen som befinner sig däremellan (20-64 år gamla) över tid står för en allt mindre andel av befolkningen. Detta är en trend som går att utröna ur historisk data, där den blir särskilt tydlig sedan cirka 2009.\n\n\n\n\n\n\n\nGenom att använda ett index som gör förändringarna för varje åldersgrupp relativa, går det också att tydliggöra vilka skillnader som förväntas ske. Nedanstående graf är just en indexerad sådan, som tydligt visar hur utvecklingen sett ut historiskt och hur den förväntas bli framgent.\n\n\n\n\n\n\nNoteraAtt tolka ett index\n\n\n\nAtt en graf är indexerad innebär att alla värden sätts till 100 i startpunkten, i det här fallet 1980, oavsett hur många de faktiskt är. Detta gör det möjligt att se en relativ utveckling genom procent. Exempelvis var mängden personer under 20 år gamla året 2012 ca 77,4% av den mängd de var 1980. Andelen 65+ hade dock ökat, och var ca 102,3% av den mängd de var 1980.\n\n\n\n\n\n\n\n\nSlutsatsen blir att både historisk data och den prognos som gjorts pekar på en kraftig ökning av antalet 65+, en kraftig minskning av de under 20, och en tydlig minskning av personer mellan 20 och 64. Detta gör också att andelen av befolkningen mellan de åldrarna förväntas sjunka över tid, medan äldre ökar kraftigt.\nDen största anledningen går att se nedan:\n\n\n\n\n\n\n\n\n\nTrots en prognosticerad återhämtning av fertiliteten, både för Ljusdal och för riket, hävdar prognosen från Statisticon att den blir otillräcklig för att stabilisera befolkningens storlek. Den historiska och prognosticerade nettoinflyttningen blir då heller inte tillräcklig för att stabilisera utvecklingen.",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi",
+      "Rapport, befolkning"
+    ]
+  },
+  {
+    "objectID": "befolkning-demografi/index.html",
+    "href": "befolkning-demografi/index.html",
+    "title": "Befolkning och demografi",
+    "section": "",
+    "text": "Rapporter inom temat.\n\n\n\n\n\n\n   \n    \n    \n      Sorterat efter\n      Standard\n      \n        Titel\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitel\n\n\n\nBeskrivning\n\n\n\nÄndrad\n\n\n\n\n\n\n\n\nDashboard, befolkning\n\n\nEn dashboard av befolkningsutvecklingen i dagsläget. Snabb överblick av nyckeltal.\n\n\n16 sep. 2026\n\n\n\n\n\n\nRapport, befolkning\n\n\n\n\n\n16 sep. 2026\n\n\n\n\n\n\nInget resultat",
+    "crumbs": [
+      "Startsida",
+      "Befolkning och demografi"
+    ]
+  }
+]
