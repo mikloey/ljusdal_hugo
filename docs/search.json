@@ -24,7 +24,7 @@
     "href": "befolkning-demografi/rapport-1.html",
     "title": "Rapport, befolkning",
     "section": "",
-    "text": "Denna rapport är en del av ett första alfatest av projektet Hugo. Syftet är att tillgängliggöra och visualisera befolkningsprognosen som finns för kommunen, vilket samtidigt ämnar visa vad som är möjligt redan i detta skede, i de fall data finns att tillgå.\n\n\n\n\n\n\nViktigtOBS!\n\n\n\nNotera att rapporten i denna utvecklingsfas kan innehålla felaktigheter, då projektets testprocesser fortfarande är under konstruktion.\n\n\n\n\nTill vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.",
+    "text": "Denna rapport är en del av ett första alfatest av projektet Hugo. Syftet är att tillgängliggöra och visualisera befolkningsprognosen som finns för kommunen, vilket samtidigt ämnar visa vad som är möjligt redan i detta skede, i de fall data finns att tillgå.\n\n\n\n\n\n\nVarningOBS!\n\n\n\nNotera att rapporten i denna utvecklingsfas kan innehålla felaktigheter, då projektets testprocesser fortfarande är under konstruktion.\n\n\n\n\nTill vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.\nFör en snabb överblick av nyckeltalen finns även dashboarden för befolkning, som bygger på samma data.",
     "crumbs": [
       "Startsida",
       "Befolkning och demografi",
@@ -36,7 +36,7 @@
     "href": "befolkning-demografi/rapport-1.html#hur-rapporten-används",
     "title": "Rapport, befolkning",
     "section": "",
-    "text": "Till vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.",
+    "text": "Till vänster finns navigationen som leder till varje rubrik. Flera av graferna i rapporten är interaktiva. I regel går de att följa med musen för att få mer detaljerad information, vänsterklicka och dra musen över ett område med musen för att zooma in, och dubbelklicka för att återställa. Vid flera av graferna kommer det också upp en mindre menyrad i övre högra hörnet av grafen när musen förs någonstans på den. Där går det att ändra inställningar för hur den ser ut, samt ladda ned en bild av hur den ser ut till sin egen dator. Några är dock inte interaktiva; jag har valt att lägga ut en markör vid dessa för att undvika eventuell förvirring.\nFör en snabb överblick av nyckeltalen finns även dashboarden för befolkning, som bygger på samma data.",
     "crumbs": [
       "Startsida",
       "Befolkning och demografi",
@@ -84,7 +84,7 @@
     "href": "befolkning-demografi/index.html",
     "title": "Befolkning och demografi",
     "section": "",
-    "text": "Rapporter inom temat.\n\n\n\n\n\n\n   \n    \n    \n      Sorterat efter\n      Standard\n      \n        Titel\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitel\n\n\n\nBeskrivning\n\n\n\nÄndrad\n\n\n\n\n\n\n\n\nDashboard, befolkning\n\n\nEn dashboard av befolkningsutvecklingen i dagsläget. Snabb överblick av nyckeltal.\n\n\n16 sep. 2026\n\n\n\n\n\n\nRapport, befolkning\n\n\n\n\n\n16 sep. 2026\n\n\n\n\n\n\nInget resultat",
+    "text": "Rapporter inom temat.\n\n\n\n\n\n\n   \n    \n    \n      Sorterat efter\n      Standard\n      \n        Titel\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitel\n\n\n\nBeskrivning\n\n\n\nÄndrad\n\n\n\n\n\n\n\n\nDashboard, befolkning\n\n\nEn dashboard av befolkningsutvecklingen i dagsläget. Snabb överblick av nyckeltal.\n\n\n21 sep. 2026\n\n\n\n\n\n\nRapport, befolkning\n\n\n\n\n\n21 sep. 2026\n\n\n\n\n\n\nInget resultat",
     "crumbs": [
       "Startsida",
       "Befolkning och demografi"
